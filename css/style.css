@@ -1,0 +1,12 @@
+@font-face {
+  font-family: fontX;
+  src: url("../assets/KaushanScriptX.ttf"); }
+
+body {
+  background-color: dodgerblue;
+  color: #fff;
+  font: 2em fontX;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
